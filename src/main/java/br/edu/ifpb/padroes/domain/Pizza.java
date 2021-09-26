@@ -4,5 +4,4 @@ public interface Pizza {
 
     public Float getPrice();
     public String getName();
-
 }
